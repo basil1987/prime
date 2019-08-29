@@ -9,3 +9,5 @@ changes by jerry to fix some issues - master branch
 
 Adding more code
 
+seconda\ory email should be considered for payments
+
